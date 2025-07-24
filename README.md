@@ -23,10 +23,8 @@
 ## Корпус
 
 Модель корпуса нашей машинки выглядит следующим образом
-<br>
+
 ![](https://raw.githubusercontent.com/Igol014/CAR305/refs/heads/main/Модель%20корпуса.png)
-<br>
-<img scr="сюда модель корпуса из компаса"> 
 
 Если нет собственных "производственных мощностей", всегда можно воспользоваться услугами __[студий 3D печати](https://uslugi.yandex.ru/213-moscow/category/raznoe/poligraficheskie-uslugi/3dpechat--5635)__
 
